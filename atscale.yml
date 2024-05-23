@@ -1,0 +1,6 @@
+unique_name: shared_bu
+object_type: catalog
+label: shared_bu
+aggressive_agg_promotion: false
+as_version: 1
+build_speculative_aggs: true
