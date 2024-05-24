@@ -1,4 +1,4 @@
-unique_name: con_SE_DEMO_LIBRARY_AGGREGATES_TH
+unique_name: con_SE_DEMO_LIBRARY_AGGREGATES_TH_shared_bu
 object_type: connection
 label: con_SE_DEMO_LIBRARY_AGGREGATES_TH
 as_connection: ck01391.us-east-2.aws.snowflakecomputing.com

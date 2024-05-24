@@ -16,5 +16,5 @@ columns:
     data_type: string
   - name: productsubcategoryname
     data_type: string
-connection_id: con_SE_DEMO_LIBRARY_AGGREGATES_TH
+connection_id: con_SE_DEMO_LIBRARY_AGGREGATES_TH_shared_bu
 table: dimproduct
